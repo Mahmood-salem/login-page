@@ -10,7 +10,7 @@ This repository contains a modern and stylish login page with animations and a s
 
 ## Screenshots
 
-![Login Page](login.png)
+![Login Page](login.PNG)
 
 
 ## Getting Started
