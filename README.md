@@ -15,4 +15,4 @@ This repository contains a modern and stylish login page with animations and a s
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/login-page.git
+   https://github.com/Mahmood-salem/login-page.git
