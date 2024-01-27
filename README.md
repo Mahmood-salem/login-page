@@ -15,6 +15,13 @@ This repository contains a modern and stylish login page with animations and a s
 
 ## Getting Started
 
+## Demo
+
+Check out the live demo [here](https://mahmood-salem.github.io/login-page/).
+
+## Getting Started
+
+
 1. Clone the repository:
 
    ```bash
