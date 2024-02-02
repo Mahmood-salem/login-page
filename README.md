@@ -22,7 +22,7 @@ Check out the live demo [here](https://mahmood-salem.github.io/login-page/).
 ## Getting Started
 
 
-1. Clone the repository:
+1. Clone the repository:-
 
    ```bash
    https://github.com/Mahmood-salem/login-page.git
