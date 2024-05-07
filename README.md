@@ -1,4 +1,4 @@
-# Login to Page with Animation and Show/Hide the Password
+# Login to Page with Animation and Show/Hide the Password.
 
 This repository contains a modern and stylish login page with animations and a show/hide password feature. Enhance your user authentication experience with this user-friendly design.
 
